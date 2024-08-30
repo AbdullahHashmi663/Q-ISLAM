@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>abubakar.jpg</file>
+        <file>image.jpg</file>
+        <file>rehman1.jpg</file>
+        <file>saad1.jpg</file>
+        <file>saeed.jpg</file>
+        <file>talha1.jpg</file>
+        <file>ubaida1.jpg</file>
+        <file>umer1.jpg</file>
+        <file>usman1.jpg</file>
+        <file>zubair1.jpg</file>
+        <file>ali2.jpg</file>
+    </qresource>
+</RCC>

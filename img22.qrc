@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>quran3.jpg</file>
+    </qresource>
+</RCC>

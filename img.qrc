@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/res">
+        <file>cover.jpeg</file>
+        <file>cover1.jpeg</file>
+        <file>cover2.jpeg</file>
+        <file>prayer.jpeg</file>
+        <file>quran.jpeg</file>
+        <file>quran1.jpeg</file>
+    </qresource>
+</RCC>

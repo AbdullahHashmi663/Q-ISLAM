@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Pdfveiw</class>
+ <widget class="QWidget" name="Pdfveiw">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>650</width>
+    <height>700</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>650</width>
+    <height>700</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-image: url(:/res/bg3.png);
+border-image: url(:/res/bg5.png);</string>
+  </property>
+  <layout class="QGridLayout" name="gridLayout">
+   <item row="0" column="0">
+    <widget class="QPushButton" name="pushButton">
+     <property name="minimumSize">
+      <size>
+       <width>0</width>
+       <height>50</height>
+      </size>
+     </property>
+     <property name="styleSheet">
+      <string notr="true">color: qlineargradient(spread:reflect, x1:0.539773, y1:0.454545, x2:0.517, y2:1, stop:0 rgba(30, 48, 115, 255), stop:1 rgba(255, 255, 255, 255));
+font: 700 26pt &quot;Script&quot;;</string>
+     </property>
+     <property name="text">
+      <string>Open Text File</string>
+     </property>
+    </widget>
+   </item>
+   <item row="1" column="0">
+    <widget class="QTextBrowser" name="textBrowser">
+     <property name="styleSheet">
+      <string notr="true">background-image: url(:/res/bg5.png);
+font: 24pt &quot;Segoe Script&quot;;
+color: rgb(255, 255, 255);</string>
+     </property>
+    </widget>
+   </item>
+  </layout>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
